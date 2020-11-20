@@ -1,0 +1,20 @@
+{
+  "name": "@chewbank/ecalculator",
+  "version": "1.0.1",
+  "description": "浮点数运算器",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [
+    "浮点运算",
+    "js浮点数",
+    "js float"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "test": "jtf"
+  }
+}
